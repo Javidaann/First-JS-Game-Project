@@ -8,7 +8,9 @@ HAKKINDA
 
 
 -Oyunda hedef üzerimize saldıran uzaylıları mahvetmektır.
+
 -Oyun mekanizması oldukça sadedir.
+
 -Oynarken tek kural eğlenmektir. :)
 
 
