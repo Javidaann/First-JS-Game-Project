@@ -7,6 +7,7 @@ HAKKINDA
 -Kodladığım ilk oyun.
 
 
+
 -Oyunda hedef üzerimize saldıran uzaylıları mahvetmektır.
 
 -Oyun mekanizması oldukça sadedir.
