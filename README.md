@@ -3,6 +3,7 @@
 HAKKINDA
 
 -Oyuncunun uzaylı istilacı dalgalarına karşı savunma yapmak için bir uzay gemisini kontrol ettiği klasik atari tarzı bir oyun.
+
 -Kodladığım ilk oyun.
 
 
