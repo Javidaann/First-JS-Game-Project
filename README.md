@@ -19,6 +19,8 @@ DEMO
 
 -Oyunu oynamak için bu siteye ulaşabilirsiniz: https://javidan.serv00.net
 
+Youtube Link: https://youtu.be/U3-wGcd3U0g
+
 OYNANIŞ GÖRÜNTÜSÜ 
 
 ![opera_vWoz4ARVfq](https://github.com/Javidaann/First-JS-Game-Project/assets/163294643/4f3c287e-b86b-402d-8bb7-c9697bfcc5c0)
